@@ -9,14 +9,13 @@ import setuptools
 
 
 setuptools.setup(name='harvest-indices',
-      version='0.0.1',
+      version='0.0.2',
       description='Calculate harvest anomalies from historical harvest data.',
       author='Florian Ellsäßer',
       author_email='info@cropdata.de',
-      license='CC BY-NC-SA',
+      license='MIT',
       packages=['harvest_indices'],
       install_requires=[
           'numpy','pandas','statsmodels'
       ]
       )
-
