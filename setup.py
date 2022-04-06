@@ -14,7 +14,7 @@ setuptools.setup(name='harvest-indices',
       author_email='info@cropdata.de',
       url='cropdata.de',
       project_urls={
-        'Documentation': 'https://github.com/FloEll/harvest-indices/blob/main/README.md',
+        'Documentation': 'https://readthedocs.org/projects/harvest-indices/',
         'Source': 'https://github.com/FloEll/harvest-indices',
         'Tracker': 'https://github.com/FloEll/harvest-indices/issues',
       },
